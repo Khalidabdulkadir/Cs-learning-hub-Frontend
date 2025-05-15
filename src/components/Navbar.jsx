@@ -19,7 +19,7 @@ function Navbar() {
           <i className="bi bi-code-square me-2 text-dark"></i>
           CS Learning Hub
         </Link>
-        <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <button className="navbar-toggler " type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" style={{color: 'white', backgroundColor: '#0dcaf0'}}>
           <span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse" id="navbarNav">
