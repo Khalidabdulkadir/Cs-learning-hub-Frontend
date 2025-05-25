@@ -37,8 +37,8 @@ Follow these steps to run the frontend locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/cs-learning-hub.git
-cd cs-learning-hub
+git clone https://github.com/Khalidabdulkadir/Cs-learning-hub-Frontend.git
+cd Cs-learning-hub-Frontend
 
 npm install
 # or
